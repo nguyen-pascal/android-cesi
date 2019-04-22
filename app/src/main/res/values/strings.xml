@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="description_auteur">Todo List développé par Nguyen Pascal - RIL17</string>
+    <string name="button_creer_liste">Créer une nouvelle liste</string>
+    <string name="button_creer_tache">Ajouter</string>
+    <string name="button_vider_liste">Vider</string>
+    <string name="button_supprimer">X</string>
+
+</resources>
